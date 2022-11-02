@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![HI i'm aNDREA](https://user-images.githubusercontent.com/75275610/199421566-ddf638dd-b389-4eb6-9c01-ed6e1a17f86b.png)
 
